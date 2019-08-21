@@ -6,7 +6,9 @@
 #property copyright "Antonio Bordons"
 #property link      ""
 
-#property indicator_chart_window
+//#property indicator_chart_window
+#property indicator_separate_window
+
 #property indicator_buffers 7
 #property indicator_color1 DarkGreen
 #property indicator_color2 Red
